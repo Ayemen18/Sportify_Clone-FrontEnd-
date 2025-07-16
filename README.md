@@ -25,7 +25,7 @@ This is a responsive **Spotify Clone** built purely with **HTML** and **CSS**, m
 
 ## 📸 Preview
 
-![Spotify Clone Preview](./assets/preview.png)
+![Spotify Clone Preview](./assets/Preview.png)
 
 ## 📂 Folder Structure
 
